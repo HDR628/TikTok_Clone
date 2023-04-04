@@ -8,6 +8,8 @@ Projeto realizado durante o evento Jornada FullStack - EBAC
 
 ## 🛠 Tecnologias Utilizadas
 
+- HTML
+- CSS
 - Javascript
 - React
 - Firebase
